@@ -1,47 +1,48 @@
-Lucas O. Ferreira
-============
+# Lucas O. Ferreira
 
--------------------    
-Curitiba, Paraná,                      
-Brazil.                          
-                                
--------------------     
+Curitiba, Paraná, Brazil.
 
-Education
----------
+---
 
-2023
-:   High School,
-    Curitiba
-    
+## Education
 
-Experience
-----------
+**2023**  
+**High School**  
+Curitiba, Paraná, Brazil
 
-**ZiveIt 2018-Present:**
+---
 
-Developed native iOS applications from inception to completion,
-utilizing firebase integration, bug hunting, effective communication tools, and Git solutions. 
+## Experience
 
-Technical Experience
---------------------
+**ZiveIt** (2018-Present)  
+* Developed native iOS applications from inception to completion.
+* Utilized Firebase integration for app functionalities.
+* Engaged in bug hunting and resolution.
+* Employed effective communication tools.
+* Managed version control with Git solutions.
 
-Side projects can be found on this github profile.
+---
 
-Experience with MacOS, Linux(Arch and Fedora) and Windows.
+## Technical Skills
 
-Programming Languages
-:   **Swift:** Writting apps from scratch.
+**Operating Systems:**  
+* MacOS  
+* Linux (Arch, Fedora)  
+* Windows  
 
-:   **C++:** Experience modifying linux kernel and writing drivers.
-    
-:   Basic knowledge of **C++**, **C#**, **GO**
+**Programming Languages:**  
+* **Swift:** Writing apps from scratch.  
+* **C:** Experience modifying the Linux kernel and writing drivers.  
+* **Basic knowledge of:** C++, C#, Go  
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+**Projects:**  
+* Side projects can be found on [GitHub](https://github.com/Severino-Fonseca)
 
-* Human Languages:
+---
 
-     * Portuguese (native speaker)
-     * English (B2)
-     * Spanish (Basic reading comprehension)
+## Additional Skills
+
+**Human Languages:**  
+* Portuguese (native speaker)  
+* English (B2)  
+* Spanish (Basic reading comprehension)
