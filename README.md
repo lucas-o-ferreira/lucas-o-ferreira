@@ -1,30 +1,47 @@
-RELEVANT EXPERIENCE 
+Lucas O. Ferreira
+============
 
-ZiveIT, Brazil — Mobile Developer  
+-------------------    
+Curitiba, Paraná,                      
+Brazil.                          
+                                
+-------------------     
 
-December 2018 - PRESENT 
+Education
+---------
 
-Developed native iOS applications from inception to completion, utilizing firebase integration, bug hunting, effective communication tools, and Git solutions. 
+2023
+:   High School,
+    Curitiba
+    
 
-EDUCATION 
+Experience
+----------
 
-High School Diploma, Brazil 
+**ZiveIt 2018-Present:**
 
-2023 
+Developed native iOS applications from inception to completion,
+utilizing firebase integration, bug hunting, effective communication tools, and Git solutions. 
 
-RELEVANT IT COURSES 
+Technical Experience
+--------------------
 
- 
+Side projects can be found on this github profile.
 
-Foundations of Cybersecurity, Google 
+Experience with MacOS, Linux(Arch and Fedora) and Windows.
 
-July 2023 
+Programming Languages
+:   **Swift:** Writting apps from scratch.
 
- 
+:   **C++:** Experience modifying linux kernel and writing drivers.
+    
+:   Basic knowledge of **C++**, **C#**, **GO**
 
-iOS and Swift, Dr. Angela Yu 
+Extra Section, Call it Whatever You Want
+----------------------------------------
 
-November 2019 
+* Human Languages:
 
-
- 
+     * Portuguese (native speaker)
+     * English (B2)
+     * Spanish (Basic reading comprehension)
