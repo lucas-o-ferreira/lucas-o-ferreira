@@ -34,9 +34,6 @@ Curitiba, Paraná, Brazil
 * **Swift:** Writing apps from scratch.   
 * **Basic knowledge of:** C++, C#, Go  
 
-**Projects:**  
-* Side projects can be found on [GitHub](https://github.com/Severino-Fonseca)
-
 ---
 
 ## Additional Skills
