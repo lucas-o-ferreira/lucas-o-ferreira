@@ -2,16 +2,6 @@
 
 Curitiba, Paraná, Brazil.
 
----
-
-## Education
-
-**2023**  
-**High School**  
-Curitiba, Paraná, Brazil
-
----
-
 ## Experience
 
 **ZiveIt** (2018-Present)  
