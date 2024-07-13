@@ -21,8 +21,7 @@ Curitiba, Paraná, Brazil.
 * Windows  
 
 **Programming Languages:**  
-* **Swift:** Writing apps from scratch.   
-* **Basic knowledge of:** C++, C#, Go  
+* Swift, C, C#, Go, Python
 
 ---
 
