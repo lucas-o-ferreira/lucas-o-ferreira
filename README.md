@@ -1,33 +1,16 @@
-# Lucas O. Ferreira
 
-Curitiba, Paraná, Brazil.
+<table>
+    <tr>
+        <td style="width: 70%;">
+            <img src="https://github.com/lucas-o-ferreira/lucas-o-ferreira/blob/main/volition.webp" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 30%; vertical-align: middle;">
+            <p style="font-family: monospace; font-size: 80px;">
+              Lucas Ferreira│software engineer (mobile|backend) and CyberSec student    
+</p>                                                                                                                            
+                                                                                                
+    about me ~
 
-## Experience
-
-**ZiveIt** (2018-Present)  
-* Developed native iOS applications from inception to completion.
-* Utilized Firebase integration for app functionalities.
-* Engaged in bug hunting and resolution.
-* Employed effective communication tools.
-* Managed version control with Git solutions.
-
----
-
-## Technical Skills
-
-**Operating Systems:**  
-* MacOS  
-* Linux (Arch, Fedora)  
-* Windows  
-
-**Programming Languages:**  
-* Swift, C, C#, Go, Python
-
----
-
-## Additional Skills
-
-**Human Languages:**  
-* Portuguese (native speaker)  
-* English (B2)  
-* Spanish (Basic reading comprehension)
+    > he/him - brazilian 
+    > portuguese, english, spanish
+    > worked at ZiveIT
