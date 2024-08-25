@@ -9,7 +9,7 @@
             <p style="font-family: monospace; font-size: 80px;">    
                 
         Lucas Ferreira | software engineer {mobile, backend}
-    
+        > persistently, patiently, you are bound to succeed
 </p>                                                                                                                            
                                                                                                   
                                                                                                     
@@ -20,9 +20,9 @@
     | portuguese, english, spanish                                                              
     | swift, go, python
     │ studying                                                                      
-        ┗ ▸  python
-          ▸  cybersec                               
-          ▸  computational mathematics
+          >  python
+          >  cybersec                               
+          >  computational mathematics
 
 
 
