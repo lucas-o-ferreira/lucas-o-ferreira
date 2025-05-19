@@ -8,7 +8,7 @@
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
                 
-        Lucas Ferreira | software engineer {mobile, backend}
+        Lucas Ferreira | Forest Engineering at UFPR
         > persistently, patiently, you are bound to succeed
 </p>                                                                                                                            
                                                                                                   
@@ -17,13 +17,13 @@
     about me V
     
     │ he/him - brazilian
-    | portuguese, english, spanish                                                              
-    | swift, go, python
-    │ studying                                                                      
-          >  python
-          >  cybersec                               
-          >  computational mathematics
-
+    | portuguese, english, spanish, and a little but of french.                                                             
+    | swift, go ❤️, python, and some c
+    │ some stuff about me:                                                                      
+          >  i like politial ecology and
+          >  cybersec, i also dabble in linux ricing in my spare time.                              
+          >  i gave up the tech, now i only vibe code.
+          
 
 
 
