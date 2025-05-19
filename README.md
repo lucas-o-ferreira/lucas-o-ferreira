@@ -22,7 +22,7 @@
     │ some stuff about me:                                                                      
           >  i like politial ecology and
           >  cybersec, i also dabble in linux ricing in my spare time.                              
-          >  i gave up the tech, now i only vibe code.
+          >  i gave up the tech world, now i only vibe code.
           
 
 
